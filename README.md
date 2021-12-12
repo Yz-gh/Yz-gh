@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Yz-gh github stats](https://github-readme-stats.vercel.app/api?username=Yz-gh&count_private=true&show_icons=true&theme=tokyonight&border_color=89cff0)](https://github.com/Yz-gh)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yz-gh&layout=compact&theme=tokyonight&title_color=ffffff&border_color=89cff0)](https://github.com/Yz-gh)
+[![Yz-gh github stats](https://github-readme-stats.vercel.app/api?username=Yz-gh&count_private=true&show_icons=true&theme=tokyonight&border_color=89cff0&count_private=true)](https://github.com/Yz-gh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yz-gh&layout=compact&theme=tokyonight&title_color=ffffff&border_color=89cff0&count_private=true)](https://github.com/Yz-gh)
 
 <!--
 **Yz-gh/Yz-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
